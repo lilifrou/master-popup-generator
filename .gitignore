@@ -1,0 +1,34 @@
+
+# Test files 
+old.txt
+output_data.json
+output_conveted.json
+
+# OS files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Editor / IDE
+.vscode/
+.idea/
+*.swp
+*~
+
+# Dependencies
+node_modules/
+vendor/
+
+# Build output
+dist/
+build/
+*.map
+
+# Logs
+*.log
+
+# Environment
+.env
+
+# Plugin packages
+*.zip
