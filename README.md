@@ -1,7 +1,7 @@
 # master-popup-generator
 A custom little plugin that automates the creation of location popups. Works with Mapster.
 
-#How to use:
+# How to use:
 
 1. Download Mapster 
 2. Create a map
